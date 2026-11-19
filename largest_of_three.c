@@ -1,10 +1,4 @@
-/*
- * Lab Assignment 02 - Programming and Problem Solving
- * Program to find the largest among three numbers.
- *
- * Compile : gcc largest_of_three.c -o largest_of_three
- * Run     : ./largest_of_three
- */
+
 #include <stdio.h>
 
 int main(void)
