@@ -1,10 +1,4 @@
-/*
- * Lab Assignment 01 - Programming and Problem Solving
- * Program simulating a Gmail account login.
- *
- * Compile : gcc gmail_login.c -o gmail_login
- * Run     : ./gmail_login
- */
+
 #include <stdio.h>
 #include <string.h>
 
