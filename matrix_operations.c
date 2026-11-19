@@ -1,11 +1,4 @@
-/*
- * Lab Assignment 04 - Programming and Problem Solving
- * Program to perform basic operations (addition and subtraction)
- * on two matrices using two-dimensional arrays.
- *
- * Compile : gcc matrix_operations.c -o matrix_operations
- * Run     : ./matrix_operations
- */
+
 #include <stdio.h>
 
 #define MAX 10
