@@ -1,11 +1,4 @@
-/*
- * Lab Assignment 03 - Programming and Problem Solving
- * Menu driven program to implement the basic arithmetic operations
- * using the switch case statement.
- *
- * Compile : gcc arithmetic_calculator.c -o arithmetic_calculator
- * Run     : ./arithmetic_calculator
- */
+
 #include <stdio.h>
 
 int main(void)
