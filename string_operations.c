@@ -1,11 +1,4 @@
-/*
- * Lab Assignment 05 - Programming and Problem Solving
- * Menu driven program to perform string operations using the
- * built-in functions of <string.h> (and <ctype.h>).
- *
- * Compile : gcc string_operations.c -o string_operations
- * Run     : ./string_operations
- */
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
