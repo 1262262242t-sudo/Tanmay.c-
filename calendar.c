@@ -1,19 +1,4 @@
-/*
- * Problem Statement:
- *   Write a C program to print the month-by-month calendar for the
- *   given year.
- *
- * Objective:
- *   To implement date and time functions in C programming.
- *
- * Usage:
- *   Compile : gcc calendar.c -o calendar
- *   Run     : ./calendar
- *
- * Date/time functions used (from <time.h>):
- *   struct tm  - broken-down calendar time (year, month, day, weekday...)
- *   mktime()   - normalizes a struct tm and fills in tm_wday (day of week)
- */
+
 
 #include <stdio.h>
 #include <string.h>
