@@ -1,16 +1,4 @@
-/*
- * Problem Statement:
- *   Write a C program to copy contents of one file to another using
- *   File handling.
- *
- * Objective:
- *   To study file handling in C.
- *
- * Usage:
- *   Compile : gcc copy_file.c -o copy_file
- *   Run     : ./copy_file
- *             (then enter source and destination file names when prompted)
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
