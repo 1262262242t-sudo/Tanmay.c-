@@ -1,11 +1,4 @@
-/*
- * Lab Assignment 06 - Programming and Problem Solving
- * C functions to compute the factorial of a number
- * with recursion and without recursion (iteration).
- *
- * Compile : gcc factorial.c -o factorial
- * Run     : ./factorial
- */
+
 #include <stdio.h>
 
 /* Factorial without recursion (using a loop) */
